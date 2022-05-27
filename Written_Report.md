@@ -14,7 +14,8 @@
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/105877888/170613321-69eb0743-9c3d-4358-9f5d-ad8906956322.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/105877888/170626438-3d0576e7-f0d6-4ff2-854e-d44b4413dd32.png)
+
 
 1. Caculate the percentages of the number of successful, failed, and canceled projects based on funding goal amount.
 2. Creat a line chart to visualize the plays project outcomes based on goal. 
