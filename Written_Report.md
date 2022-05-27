@@ -31,10 +31,20 @@
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+  *Successful theater campaigns are more than failed theater campaigns in each month, especially during the middle of the year. 
+   So theater is an efficient crwdfunding method. 
+  *May is the best month to launch theater campaingns. 
+  
 - What can you conclude about the Outcomes based on Goals?
-
+  
+  *For those campaigns of plays, which goals lower than $20,000 are easy to get accomplished.
+  
 - What are some limitations of this dataset?
-
-
+  
+  *The cost of each campaign is not included. Net pledged amount should be deducted by the cost or budget.
 
 - What are some other possible tables and/or graphs that we could create?
+  
+  *Comparison of total outcomes in different country by convert all currency to US dollar```$```.
+  
+  *Analysis of outcomes based on daily crowedfunding during the campaigns.
