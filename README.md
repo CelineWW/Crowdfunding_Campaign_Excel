@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-## Basic analysis results of kickstarter campaigns
+## Basic analysis of kickstarter campaigns
 
   ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/105877888/170364445-c3746e0e-0eb5-4323-97d4-e0494b56b240.png)
   ![Parent Category Outcomes](https://user-images.githubusercontent.com/105877888/170364470-fab4a9c3-95e7-45b5-b829-7549e8ed6340.png)
