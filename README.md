@@ -1,12 +1,16 @@
 # Kickstarting with Excel
 ## Basic analysis of kickstarter campaigns
 - Line Chart of Outcomes Based on Launch Date
+
   ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/105877888/170364445-c3746e0e-0eb5-4323-97d4-e0494b56b240.png)
 - Stacking Bar Chart of Parent Category Outcomes
+
   ![Parent Category Outcomes](https://user-images.githubusercontent.com/105877888/170364470-fab4a9c3-95e7-45b5-b829-7549e8ed6340.png)
 - Stacking Bar Chart of Subcategory Outcomes
+
   ![Subcategory Outcomes](https://user-images.githubusercontent.com/105877888/170364493-35755532-6c99-4ea7-b300-d887a9333735.png)
 - Box and Whisker Plot of musical outcome distribution in Great Britain
+
   ![GB Musical Chart](https://user-images.githubusercontent.com/105877888/170364504-37814b2d-83a4-410c-a825-ca08a1bb5f23.PNG)
 
 
