@@ -1,5 +1,11 @@
 # Kickstarting with Excel
-## Basic analysis of kickstarter campaigns
+
+## Overview
+- Create graphs to show overall outcomes based on goals and outcomes based on launch date.
+- Take the outcomes of theater and plays as examples, to analyze how successful of Louise crowdfunding campaigns. According to the analyzed data, give out some recommendations to Louise.
+
+## Result
+### Basic analysis results
 - Line Chart of Outcomes Based on Launch Date
 
   ![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/105877888/170364445-c3746e0e-0eb5-4323-97d4-e0494b56b240.png)
@@ -18,29 +24,23 @@
 
   ![GB Musical Chart](https://user-images.githubusercontent.com/105877888/170364504-37814b2d-83a4-410c-a825-ca08a1bb5f23.PNG)
 
+### Advanced analysis results
+- Analysis of Outcomes Based on Launch Date
 
-## Advanced analysis of kickstarter campaigns
-### Overview
-**Take the outcomes of theater and plays as examples, to analyze how successful of Louise crowdfunding campaigns. According to the analyzed data, give out some recommendations to Louise.**
+  1. Creating a pivot table to pull out theater outcomes data accompanied with launch date. 
+  2. Drawing a line chart to show successful, failed, and canceled theater campaigns of launch month dependence. 
 
-## Analysis and Challenges
+  <img width="1182" alt="Pivot table" src="https://user-images.githubusercontent.com/105877888/208598222-9a5db05e-537e-4634-b6d4-ff064158573e.png">
 
-### Analysis of Outcomes Based on Launch Date
+- Analysis of Outcomes Based on Goals
 
-1. Creating a pivot table to pull out theater outcomes data accompanied with launch date. 
-2. Drawing a line chart to show successful, failed, and canceled theater campaigns of launch month dependence. 
+  1. Caculating the percentages of successful, failed, and canceled campaignes based on crowdfunding goal amount.
+  2. Creating a line chart to visualize the outcomes of plays based on campaign goals. 
 
-<img width="1182" alt="Pivot table" src="https://user-images.githubusercontent.com/105877888/208598222-9a5db05e-537e-4634-b6d4-ff064158573e.png">
-
-### Analysis of Outcomes Based on Goals
-
-![Outcomes Based on Launch Date with table](https://user-images.githubusercontent.com/105877888/208598065-4da91047-d0ac-4740-a1c8-c6aae0e9c4c4.png)
+  ![Outcomes Based on Launch Date with table](https://user-images.githubusercontent.com/105877888/208598065-4da91047-d0ac-4740-a1c8-c6aae0e9c4c4.png)
 
 
-1. Caculating the percentages of successful, failed, and canceled campaignes based on crowdfunding goal amount.
-2. Creating a line chart to visualize the outcomes of plays based on campaign goals. 
-
-### Challenges and Difficulties Encountered
+## Challenges and Difficulties Encountered
 
  *_```=COUNTIFS```function contains several criterion, which makes the formulas very long, Especially the referenced cells are from another worksheet. One need to be careful to confirm the cell name. ```Alt+Enter``` (to input in new line)also would help to make it easier to read._
 
@@ -48,7 +48,7 @@
 
  *_Right click is more convenient than looking for tools from the ribbons above if presence. e.g. changing the color of chart lines, formatting axis._
 
-## Results
+## Summary and Potential Questions 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
