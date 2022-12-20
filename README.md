@@ -9,6 +9,11 @@
 - Stacking Bar Chart of Subcategory Outcomes
 
   ![Subcategory Outcomes](https://user-images.githubusercontent.com/105877888/170364493-35755532-6c99-4ea7-b300-d887a9333735.png)
+  
+- Measures of Spread - Descriptive Statistics
+
+ <img width="1513" alt="Measures of Spread" src="https://user-images.githubusercontent.com/105877888/208597569-fe1315c8-04b4-4954-a53e-9702ca2f1a14.png">
+
 - Box and Whisker Plot of musical outcome distribution in Great Britain
 
   ![GB Musical Chart](https://user-images.githubusercontent.com/105877888/170364504-37814b2d-83a4-410c-a825-ca08a1bb5f23.PNG)
