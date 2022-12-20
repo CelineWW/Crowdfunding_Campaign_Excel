@@ -26,14 +26,15 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/105877888/170613303-fd4a268e-82a7-456b-957d-9fdf818dda9c.png)
 
 1. Creating a pivot table to pull out theater outcomes data accompanied with launch date. 
 2. Drawing a line chart to show successful, failed, and canceled theater campaigns of launch month dependence. 
 
+<img width="1182" alt="Pivot table" src="https://user-images.githubusercontent.com/105877888/208598222-9a5db05e-537e-4634-b6d4-ff064158573e.png">
+
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/105877888/170626438-3d0576e7-f0d6-4ff2-854e-d44b4413dd32.png)
+![Outcomes Based on Launch Date with table](https://user-images.githubusercontent.com/105877888/208598065-4da91047-d0ac-4740-a1c8-c6aae0e9c4c4.png)
 
 
 1. Caculating the percentages of successful, failed, and canceled campaignes based on crowdfunding goal amount.
